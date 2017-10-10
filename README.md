@@ -3,7 +3,7 @@
 Ansible Test Driver is an ansible driven automated tool which can drive tools like PTE and OTE,
 which can be found in the fabric-test repository, to test several components on a deployed Hyperledger Fabric network.
 
-ATD can do the following to drive PTE:
+## ATD can do the following to drive PTE:
 
 Driving PTE using ATD reduces the effort of modifying the channel configuration files, samplecc-chan-create-TLS.json files,
 and running the create, join, install, instantiate, invokes and queries separately by doing the following:
